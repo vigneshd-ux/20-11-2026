@@ -1,0 +1,16 @@
+{
+  "model": "sentence-transformers/all-MiniLM-L6-v2",
+  "chunks": 820,
+  "vectors": 820,
+  "cache_hits": 820,
+  "embedded_this_run": 0,
+  "failed_batches": 0,
+  "batch_size": 64,
+  "elapsed_seconds": 0.233,
+  "cost_usd": 0.0,
+  "cost_basis": "Local SentenceTransformers inference; no API charges (hardware cost excluded).",
+  "cache": "embeddings_cache.sqlite3",
+  "embeddings_file": "embeddings.jsonl",
+  "failed_batch_log": "failed_batches.jsonl",
+  "verified": true
+}

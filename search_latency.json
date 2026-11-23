@@ -1,0 +1,132 @@
+{
+  "summary": {
+    "requests": 20,
+    "p50_ms": 14.149,
+    "p95_ms": 163.993,
+    "mean_ms": 61.027,
+    "warmup_excluded": true,
+    "transport": "local HTTP keep-alive; end-to-end API request"
+  },
+  "samples": [
+    {
+      "query_number": 1,
+      "query": "How does the World Bank proactively disclose information to the public?",
+      "latency_ms": 131.133,
+      "result_count": 5
+    },
+    {
+      "query_number": 2,
+      "query": "How many information requests were received in FY 2015?",
+      "latency_ms": 188.728,
+      "result_count": 5
+    },
+    {
+      "query_number": 3,
+      "query": "When can restricted information be disclosed for the public benefit?",
+      "latency_ms": 14.446,
+      "result_count": 5
+    },
+    {
+      "query_number": 4,
+      "query": "What appeal options exist for denied access to information requests?",
+      "latency_ms": 14.062,
+      "result_count": 5
+    },
+    {
+      "query_number": 5,
+      "query": "How does the World Bank conduct outreach and citizen engagement?",
+      "latency_ms": 14.237,
+      "result_count": 5
+    },
+    {
+      "query_number": 6,
+      "query": "How does WHO set publication priorities and monitor publications?",
+      "latency_ms": 105.954,
+      "result_count": 5
+    },
+    {
+      "query_number": 7,
+      "query": "What does the WHO Guidelines Review Committee do?",
+      "latency_ms": 154.733,
+      "result_count": 5
+    },
+    {
+      "query_number": 8,
+      "query": "What percentage of FY 2015 requests received a response within 20 days?",
+      "latency_ms": 16.852,
+      "result_count": 5
+    },
+    {
+      "query_number": 9,
+      "query": "What is the UN Security Management System accountability framework?",
+      "latency_ms": 12.725,
+      "result_count": 5
+    },
+    {
+      "query_number": 10,
+      "query": "What transparency statistics are in the World Bank annual reports?",
+      "latency_ms": 12.918,
+      "result_count": 5
+    },
+    {
+      "query_number": 11,
+      "query": "How does the World Bank share information in its reports?",
+      "latency_ms": 12.864,
+      "result_count": 5
+    },
+    {
+      "query_number": 12,
+      "query": "How can a member of the public request information from the Bank?",
+      "latency_ms": 162.691,
+      "result_count": 5
+    },
+    {
+      "query_number": 13,
+      "query": "What information is excluded under the World Bank disclosure policy?",
+      "latency_ms": 12.775,
+      "result_count": 5
+    },
+    {
+      "query_number": 14,
+      "query": "How are World Bank information appeals reviewed?",
+      "latency_ms": 153.844,
+      "result_count": 5
+    },
+    {
+      "query_number": 15,
+      "query": "How does WHO evaluate publication impact?",
+      "latency_ms": 150.126,
+      "result_count": 5
+    },
+    {
+      "query_number": 16,
+      "query": "What recommendations improve WHO publication search and metadata?",
+      "latency_ms": 12.248,
+      "result_count": 5
+    },
+    {
+      "query_number": 17,
+      "query": "How does the Bank improve public access to documents?",
+      "latency_ms": 12.704,
+      "result_count": 5
+    },
+    {
+      "query_number": 18,
+      "query": "What does the FY 2014 Access to Information report say about requests?",
+      "latency_ms": 12.31,
+      "result_count": 5
+    },
+    {
+      "query_number": 19,
+      "query": "Which policies explain WHO publication coordination?",
+      "latency_ms": 12.543,
+      "result_count": 5
+    },
+    {
+      "query_number": 20,
+      "query": "Where can I find the UN Procurement and Security Risk Management Manuals?",
+      "latency_ms": 12.643,
+      "result_count": 5
+    }
+  ]
+}

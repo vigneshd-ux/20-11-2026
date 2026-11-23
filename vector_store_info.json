@@ -1,0 +1,22 @@
+{
+  "server_version": "1.20.1",
+  "collection": "document_chunks",
+  "points_count": 820,
+  "indexed_vectors_count": 820,
+  "status": "green",
+  "vector_size": 384,
+  "distance": "Cosine",
+  "hnsw": {
+    "m": 16,
+    "ef_construct": 100,
+    "full_scan_threshold": 10
+  },
+  "indexing_threshold_kb": 1,
+  "payload_indexes": {
+    "locator_type": "keyword",
+    "section": "integer",
+    "doc_type": "keyword",
+    "source": "keyword",
+    "page": "integer"
+  }
+}

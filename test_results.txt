@@ -1,0 +1,7 @@
+test_build_chunk_id_is_stable_and_sensitive_to_inputs (test_chunking.ChunkTextTests.test_build_chunk_id_is_stable_and_sensitive_to_inputs) ... ok
+test_chunk_text_respects_size_and_overlap (test_chunking.ChunkTextTests.test_chunk_text_respects_size_and_overlap) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
